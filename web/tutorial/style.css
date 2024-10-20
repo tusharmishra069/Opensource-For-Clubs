@@ -1,0 +1,37 @@
+* {
+    background-color: rgb(2 6 23);
+  }
+  
+  .card {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+  }
+  
+  .card .card-image {
+    max-width: 60%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10%;
+  }
+  
+  .card .card-title {
+    font-family: "Courier New", Courier, monospace;
+    margin: 0;
+    color: white;
+  }
+  
+  .card .card-text {
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+  }
+  
+  .card .card-user {
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+  }
