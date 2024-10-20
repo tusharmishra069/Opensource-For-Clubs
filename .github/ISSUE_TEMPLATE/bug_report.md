@@ -35,3 +35,9 @@ Please provide relevant logs or error messages that could help in diagnosing the
 ```bash
 # Paste any error logs here
 ```
+
+This section is only for the students of the R.C.E.T Bhilai
+
+your name :-
+ERP:-
+CLub:- "in which club you are (write if applicable)"
