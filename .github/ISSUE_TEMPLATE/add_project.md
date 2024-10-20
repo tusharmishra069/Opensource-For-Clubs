@@ -28,7 +28,6 @@ Provide instructions for others to set up and run your project.
 ## 🌟 Screenshots (if applicable)
 If available, add screenshots or other visual aids to showcase your project.
 
-
 ### 🏫 R.C.E.T Bhilai Students Section
 
 This section is only for the students of the R.C.E.T Bhilai
