@@ -13,5 +13,5 @@ Make sure to review existing pull requests before submitting yours to avoid dupl
 
 ### Contribution  Guidelines
 
-Go To [Contributing Guide](CONTRIBUTING.md)
+Go To [Contributing Guide](/CONTRIBUTING.md)
 
