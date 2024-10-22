@@ -36,8 +36,12 @@ Please provide relevant logs or error messages that could help in diagnosing the
 # Paste any error logs here
 ```
 
+---
+
+### 🏫 R.C.E.T Bhilai Students Section
+
 This section is only for the students of the R.C.E.T Bhilai
 
-your name :-
-ERP:-
-CLub:- "in which club you are (write if applicable)"
+- **Your Name**: 
+- **ERP**: 
+- **Club**: "in which club you are (write if applicable)"
