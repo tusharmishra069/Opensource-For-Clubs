@@ -27,7 +27,7 @@ Thank you for your interest in contributing to this project! Contributions are w
 
 ## How to Contribute 🤝
 
-**Note:** Please make sure to star this repository ⭐ We appreciate your support!
+**Note:** Please make sure to star this repository ⭐ We appreciate your support! Thankyou
 
 ### 1. Fork the Repository 🍴
 
