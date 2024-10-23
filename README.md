@@ -27,7 +27,7 @@ Thank you for your interest in contributing to this project! Contributions are w
 
 ## How to Contribute 🤝
 
-**Note:** Please make sure to star this repository ⭐ before submitting a pull request. PRs will not be merged unless you have starred the repo. We appreciate your support!
+**Note:** Please make sure to star this repository ⭐ We appreciate your support!
 
 ### 1. Fork the Repository 🍴
 
