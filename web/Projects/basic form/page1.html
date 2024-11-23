@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case Details</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form id="form1">
+        <h1>Case Details</h1>
+
+        <label for="case">What is the case type?</label>
+        <select name="case" id="case" required>
+            <option value="Civil">Civil</option>
+            <option value="Criminal">Criminal</option>
+            <option value="Family">Family</option>
+            <option value="Corporate">Corporate</option>
+            <option value="Property">Property</option>
+            <option value="Contract">Contract</option>
+        </select>
+
+        <label for="jurisdiction">What is the jurisdiction of the case?</label>
+        <select name="jurisdiction" id="jurisdiction" required>
+            <option value="Local court">Local court</option>
+            <option value="High Court">High Court</option>
+            <option value="Supreme Court">Supreme Court</option>
+        </select>
+
+        <label for="status">What is the case status?</label>
+        <input list="Cases" id="status" name="status" required>
+        <datalist id="Cases">
+            <option value="Pre-trial"></option>
+            <option value="Trial"></option>
+            <option value="Post-trial"></option>
+            <option value="Appeal"></option>
+        </datalist>
+
+        <div class="button-group">
+            <button type="button" onclick="nextPage('parties.html')">Next</button>
+        </div>
+    </form>
+</body>
+</html>
